@@ -128,7 +128,7 @@ git init
 git add .
 git commit -m "Initial commit: Atlas Support AI"
 git branch -M main
-git remote add origin <your-repo-url>
+git remote add origin <https://github.com/Pratyusha1102/AtlasAI>
 git push -u origin main
 ```
 
